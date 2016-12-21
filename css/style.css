@@ -1,0 +1,41 @@
+.navbar-default {
+	box-shadow: none;
+	border: none;
+}
+.navbar {
+	background: transparent;
+}
+.icon-bar {
+   background-color:#000000!important;
+}
+.navbar-header {
+  	float: none;
+}
+.navbar-toggle {
+  	display: block;
+  	border: none;
+	outline: none;
+	margin: 25px;
+}
+.navbar-collapse {
+  	border:none;
+  	box-shadow: none;
+}
+.navbar-collapse.collapse {
+  	display: none!important;
+}
+.collapse.in{
+  	display:block !important;
+}
+.container1 {
+	padding-top: 40px;	
+}
+.container {
+	padding-top: 30px;	
+}
+.cards{
+	padding-top: 40px;
+}
+body {
+	font-family: 'Roboto', sans-serif;
+}
